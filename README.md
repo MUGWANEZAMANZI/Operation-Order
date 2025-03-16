@@ -7,7 +7,7 @@ This script automates the process of digital forensics, including the installati
 - **Student Name:** MUGWANEZA MANZO Audace
 - **Student Code:** s39
 - **Class Code:** RW-University-II
-- **Lecturer:** DOMINIQUE
+  
 
 ## Prerequisites
 - The script must be run as root.
