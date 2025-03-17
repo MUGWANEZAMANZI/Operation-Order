@@ -19,4 +19,8 @@ The script will automatically install the required tools if they are not already
 ## Usage
 1. **Run the Script:**
    ```bash
-   sudo ./your_script_name.sh
+   sudo ./RW-University-II.s39.nx212.sh
+
+
+   Documentation: https://drive.google.com/file/d/1HIhB5WEOYjq-ACF5476dgmpx9JYR8BtI/view?usp=sharing
+   
